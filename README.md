@@ -1,4 +1,4 @@
-💻 DSA-Solutions by Alex Emon Halder
+## 💻 DSA-Solutions by Alex Emon Halder
 
 Welcome to my Data Structures and Algorithms (DSA) repository.
 This repository contains my Java solutions to classic and interview-focused problems.
