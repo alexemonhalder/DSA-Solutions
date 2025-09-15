@@ -6,7 +6,7 @@ It is designed to showcase my problem-solving skills, coding patterns knowledge,
 
 
 Repository structure:
-
+```
 DSA-Solutions/
 │
 ├── README.md                 # Main repository introduction
@@ -18,8 +18,7 @@ DSA-Solutions/
 ├── stack/                    # Stack problems
 ├── queue/                    # Queue problems
 └── patterns/                 # Notes and index of coding patterns (links to solutions)
-
-
+```
 
 > Each folder contains well-documented Java solutions with:
 > - Problem description
