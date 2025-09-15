@@ -10,7 +10,7 @@
 3. Update answer (max, min, sum, etc.).
 
 ## Example Problems
-- [Two Sum](../arrays/two_sum_two_pointers.java)
+- [Remove Duplicates from Sorted Array](../arrays/26_remove_duplicates_two_pointers.java)
 
 ## Complexity
 - Time: O(n)
