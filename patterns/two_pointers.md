@@ -14,6 +14,7 @@
 - [Remove Element](../arrays/27_remove_elements_two_pointers.java)
 - [Move Zeroes](../arrays/283_move_zeroes_two_pointers.java)
 - [Duplicate Zeroes](../arrays/1089_duplicate_zeros_two_pointers.java)
+- [Sort Array by Parity](../arrays/905_sort_array_by_parity.java)
 
 ## Complexity
 - Time: O(n)
