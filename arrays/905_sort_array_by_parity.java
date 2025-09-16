@@ -10,17 +10,18 @@ Space complexity: O(1)
 
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        int i=0, j=nums.length-1;
+        int L=0, R=0;
         int temp=0;
 
-        while(i<j){
-            if(nums[i]%2!=0 && nums[j]%2==0){
-                temp=nums[i];
-                nums[i]=nums[j];
-                nums[j]=temp;
+
+        for(R=0; R<nums.length; R++){
+            if(nums[R]%2==0){
+                temp=nums[R];
+                nums[R]=nums[L];
+                nums[L]=temp;
+
+                L++;
             }
-            i++;
-            j--;
         }
         
         return nums;
