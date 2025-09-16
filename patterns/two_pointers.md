@@ -13,6 +13,7 @@
 - [Remove Duplicates from Sorted Array](../arrays/26_remove_duplicates_two_pointers.java)
 - [Remove Element](../arrays/27_remove_elements_two_pointers.java)
 - [Move Zeroes](../arrays/283_move_zeroes_two_pointers.java)
+- [Duplicate Zeroes](../arrays/1089_duplicate_zeros_two_pointers.java)
 
 ## Complexity
 - Time: O(n)
