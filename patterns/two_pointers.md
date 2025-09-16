@@ -11,6 +11,7 @@
 
 ## Example Problems
 - [Remove Duplicates from Sorted Array](../arrays/26_remove_duplicates_two_pointers.java)
+- [Remove Element](../arrays/27_remove_elements_two_pointers.java)
 
 ## Complexity
 - Time: O(n)
