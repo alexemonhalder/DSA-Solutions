@@ -14,6 +14,7 @@
 - [Find Pivot Index](../arrays/724_find_pivot_index_prefix_sum.java)
 - [Running Sum of 1D Array](../arrays/1480_running_sum_1D_array__prefix_sum.java)
 - [Range Sum Query](../arrays/303_range_sum_query_prefix_sum.java)
+- [Find the Highest Altitude](../arrays/1732_find_the_highest_altitude_prefix_sum.java)
 
 
 ## Complexity
