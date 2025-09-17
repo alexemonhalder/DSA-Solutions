@@ -12,6 +12,7 @@
 
 ## Example Problems
 - [Running Sum of 1D Array](../arrays/1480_running_sum_1D_array__prefix_sum.java)
+- [Range Sum Query](../arrays/303_range_sum_query_prefix_sum.java)
 
 
 ## Complexity
