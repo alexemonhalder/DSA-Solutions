@@ -11,6 +11,7 @@
 4. Optionally, store the results in a new array or update in-place.
 
 ## Example Problems
+- [Find Pivot Index](../arrays/724_find_pivot_index_prefix_sum.java)
 - [Running Sum of 1D Array](../arrays/1480_running_sum_1D_array__prefix_sum.java)
 - [Range Sum Query](../arrays/303_range_sum_query_prefix_sum.java)
 
