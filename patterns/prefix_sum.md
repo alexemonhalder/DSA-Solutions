@@ -16,6 +16,7 @@
 - [Range Sum Query](../arrays/303_range_sum_query_prefix_sum.java)
 - [Find the Highest Altitude](../arrays/1732_find_the_highest_altitude_prefix_sum.java)
 - [Left and Right Sum Differences](../arrays/2574_left_right_sum_prefix_sum.java)
+- [Minimum Value to Get Positive Step by Step Sum](../arrays/1413_minimum_value_to_get_step_by_step_sum_prefix_sum.java)
 
 
 ## Complexity
