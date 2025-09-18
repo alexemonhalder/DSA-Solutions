@@ -26,5 +26,11 @@ class Solution {
         }
 
         return 1-minPrefix;
+
+        /*why return 1-minPrefix?
+           because, min + startValue >=1
+            so, startValue = 1 - min;
+        */
     }
+
 }
