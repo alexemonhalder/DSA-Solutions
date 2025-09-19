@@ -17,6 +17,7 @@
 - [Find the Highest Altitude](../arrays/1732_find_the_highest_altitude_prefix_sum.java)
 - [Left and Right Sum Differences](../arrays/2574_left_right_sum_prefix_sum.java)
 - [Minimum Value to Get Positive Step by Step Sum](../arrays/1413_minimum_value_to_get_step_by_step_sum_prefix_sum.java)
+- [Count Partition with Even Sum Difference](../arrays/3432_Count_Partitions_with_Even_Sum_Difference.java)
 
 
 ## Complexity
