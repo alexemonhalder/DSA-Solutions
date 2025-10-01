@@ -10,6 +10,7 @@
 3. Update answer (max, min, sum, etc.).
 
 ## Example Problems
+- [Merge Sorted Array](../arrays/88_merged_sorted_array_two_pointers.java)
 - [Remove Duplicates from Sorted Array](../arrays/26_remove_duplicates_two_pointers.java)
 - [Remove Element](../arrays/27_remove_elements_two_pointers.java)
 - [Move Zeroes](../arrays/283_move_zeroes_two_pointers.java)
